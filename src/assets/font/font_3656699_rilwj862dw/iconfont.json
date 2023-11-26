@@ -1,0 +1,247 @@
+{
+  "id": "3656699",
+  "name": "ywrz",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "952",
+      "name": "云上传",
+      "font_class": "yunshangchuan",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "788028",
+      "name": "主页",
+      "font_class": "zhuye",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "3978102",
+      "name": "敏感数据分级管理",
+      "font_class": "minganshujufenjiguanli",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "7079245",
+      "name": "review (1)",
+      "font_class": "review",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "9441400",
+      "name": "工单-工单统计",
+      "font_class": "gongdan-gongdantongjicopy",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "10104153",
+      "name": "用户信息",
+      "font_class": "yonghuxinxi",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "11644478",
+      "name": "违纪处分",
+      "font_class": "weijichufen",
+      "unicode": "e651",
+      "unicode_decimal": 58961
+    },
+    {
+      "icon_id": "29798844",
+      "name": "反复告警",
+      "font_class": "fanfugaojing",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "35335248",
+      "name": "face-grin-stars",
+      "font_class": "face-grin-stars",
+      "unicode": "e875",
+      "unicode_decimal": 59509
+    },
+    {
+      "icon_id": "37684156",
+      "name": "敏感词",
+      "font_class": "minganci",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "9520840",
+      "name": "单色圆点",
+      "font_class": "danseyuandian",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "12290476",
+      "name": "签到",
+      "font_class": "qiandao1",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "12771510",
+      "name": "总人数",
+      "font_class": "zongrenshu",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "12841004",
+      "name": "服务团队",
+      "font_class": "fuwutuandui",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "19567535",
+      "name": "值班表",
+      "font_class": "11zhibanbiao",
+      "unicode": "e6b2",
+      "unicode_decimal": 59058
+    },
+    {
+      "icon_id": "1228",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1305475",
+      "name": "历史记录",
+      "font_class": "lishijilu",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "3077338",
+      "name": "加班申请",
+      "font_class": "jiaban",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "3199573",
+      "name": "请假审批",
+      "font_class": "drxx37",
+      "unicode": "e70d",
+      "unicode_decimal": 59149
+    },
+    {
+      "icon_id": "3860899",
+      "name": "团队",
+      "font_class": "tuandui",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "4066474",
+      "name": "工作统计_焦点",
+      "font_class": "gongzuotongji_jiaodian",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "4818018",
+      "name": "人员考勤",
+      "font_class": "renyuankaoqin-copy-copy",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "12820178",
+      "name": "人员管理",
+      "font_class": "renyuanguanli",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "15053968",
+      "name": "人员",
+      "font_class": "ic_person_card24px",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "15628571",
+      "name": "交接班管理2",
+      "font_class": "jiaojiebanguanli2",
+      "unicode": "e6ad",
+      "unicode_decimal": 59053
+    },
+    {
+      "icon_id": "19883444",
+      "name": "加班",
+      "font_class": "jiaban1",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "20173002",
+      "name": "请假管理",
+      "font_class": "qingjiaguanli",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "20524422",
+      "name": "值班表",
+      "font_class": "zhibanbiao",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "20929217",
+      "name": "请假申请",
+      "font_class": "qingjiashenqing",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "22774106",
+      "name": "工作任务",
+      "font_class": "gongzuorenwu",
+      "unicode": "e653",
+      "unicode_decimal": 58963
+    },
+    {
+      "icon_id": "30014605",
+      "name": "交接班2",
+      "font_class": "jiaojieban2",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "598005",
+      "name": "请假 加班",
+      "font_class": "qingjiajiaban",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "2811150",
+      "name": "签到",
+      "font_class": "qiandao",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "5388005",
+      "name": "待办任务_取消_o",
+      "font_class": "daibanrenwu_quxiao_o",
+      "unicode": "ebb2",
+      "unicode_decimal": 60338
+    }
+  ]
+}
