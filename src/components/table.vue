@@ -4,6 +4,7 @@
             height="90%"
             stripe
             style="width: 100%"
+            :id="id"
     >
         <el-table-column
                 align="center"
@@ -42,7 +43,7 @@
 <script>
     export default {
         name: "MainTable",
-        props: ['tableData'],
+        props: ['tableData','id'],
         data() {
             return {
                 datas: this.tableData

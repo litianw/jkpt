@@ -1,9 +1,9 @@
 <template>
     <div id="wjfx-container">
     <div style="height: 10%;overflow: auto;background-color: #FFF;border-radius: 5px;margin-bottom: 5px;line-height: 90px;text-align: left">
-        <el-button style="margin: 0px 20px">导出</el-button>
+        <el-button style="margin: 0px 20px" @click="exportdrdc">导出</el-button>
     </div>
-    <el-table
+    <el-table id="wjfx"
             :data="datas"
             height="90%"
             stripe
@@ -44,6 +44,7 @@
 
 <script>
     import {getWjtj} from '~/utils/api'
+    import {exportExc} from "~/utils/exportExcle";
     export default {
         name: "wjfx",
         data(){
@@ -64,6 +65,11 @@
                 this.datas =data.data;
             })
 
+        },
+        methods: {
+            exportdrdc() {
+                exportExc('wjfx', "违规违纪");
+            }
         }
     }
 </script>

@@ -7,7 +7,7 @@ Vue.use(Vuex)
 const store = new Vuex.Store({
     state: {
         user: null,
-        context: 'oms-gzp',
+        context: 'jgpt',
         title: '主页'
     },
     mutations: {
